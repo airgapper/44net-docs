@@ -1,9 +1,8 @@
 44net Read the docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
-Read the tutorial here:
+
+Read the tutorial on how to edit readthe docs file here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
