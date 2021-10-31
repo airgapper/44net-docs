@@ -6,29 +6,22 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use 44net, first obtain an API token key:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) http://44net.cloud/profile/token
 
-Creating recipes
+Creating Tunnel
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+.. autofunction:: 44net.get_peer_publickey
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+.. autoexception:: 44net.Invalid
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import 
+
 
