@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to 44net's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**44net.cloud** is an open source app and library for creating tunnels.
+44net's *simple* and *intuitive* API allows users to spinup your **own tunnel**, and contibute to the 44net project to develope
+new addons and features
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
