@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+44net Read the docs
 =======================================
 
 This GitHub template includes fictional Python library
